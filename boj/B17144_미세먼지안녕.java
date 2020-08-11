@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class B17144_미세먼지안녕_윤지원 {
+public class B17144_미세먼지안녕 {
 	
 	static int R,C,T;
 	static int map[][][];
